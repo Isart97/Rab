@@ -1,0 +1,27 @@
+img {
+
+width:100% ;
+}
+.kot{
+    display: block;
+    width: 300px;
+    height: 300px;
+    background: rgb(23, 206, 120);
+    border-left: 200px;
+ }
+.kit{
+    display: block;
+    width: 300px;
+    height: 300px;
+    background: rgb(206, 133, 23);
+ }
+ .kubik{
+    display: block;
+    width: 300px;
+    height: 300px;
+    border: 10px solid slateblue;
+    border-radius: 50%;
+    background: rgb(80, 6, 43);
+    margin: 400px auto;
+ }
+
